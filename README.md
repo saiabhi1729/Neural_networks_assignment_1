@@ -9,4 +9,4 @@
 link: https://drive.google.com/file/d/15eHc3RsXJL53FuDkrLU8KkXmxnzo04pf/view?usp=sharing
 
 ### Github link 
-link: https://github.com/saiabhi1729/Neural_networks_assignment_1/edit/main/README.md
+link: https://github.com/saiabhi1729/Neural_networks_assignment_1
